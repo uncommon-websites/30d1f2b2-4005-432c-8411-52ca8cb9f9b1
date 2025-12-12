@@ -5,24 +5,24 @@
 			<!-- Left Column: CTA & Visual -->
 			<div class="flex flex-col h-full">
 				<div class="mb-8">
-					<p class="font-mono text-xs text-muted mb-4">Start building</p>
-					<h2 class="text-2xl font-medium mb-4">Towards a programmatic web for AIs</h2>
+					<p class="font-mono text-xs text-muted mb-4">Partner with us</p>
+					<h2 class="text-2xl font-medium mb-4">Building the future of AI together</h2>
 					<p class="text-muted font-light mb-8 text-sm leading-relaxed max-w-md">
-						Parallel is building new interfaces, infrastructure, and business models for AIs to work with the web
+						Infinity Forge combines deep technical expertise with proven business acumen to transform AI research into production systems and build ventures from ideation to IPO.
 					</p>
 					<div class="flex gap-3 mb-12">
 						<button class="border border-border px-3 py-1.5 text-xs font-mono uppercase hover:bg-primary-50 transition-colors flex items-center gap-2">
-							TRY IT FOR FREE
-							<span class="text-muted border border-muted/30 rounded px-1 text-[9px] min-w-[16px] text-center">P</span>
+							START YOUR VENTURE
+							<span class="text-muted border border-muted/30 rounded px-1 text-[9px] min-w-[16px] text-center">S</span>
 						</button>
 						<button class="border border-border px-3 py-1.5 text-xs font-mono uppercase hover:bg-primary-50 transition-colors flex items-center gap-2">
-							JOIN US
-							<span class="text-muted border border-muted/30 rounded px-1 text-[9px] min-w-[16px] text-center">J</span>
+							EXPLORE RESEARCH
+							<span class="text-muted border border-muted/30 rounded px-1 text-[9px] min-w-[16px] text-center">R</span>
 						</button>
 					</div>
 				</div>
 				
-				<!-- Barcode Visual -->
+				<!-- Technical Visual -->
 				<div class="mt-auto w-full h-48 bg-black relative overflow-hidden flex items-center justify-center">
 					{#each Array(100) as _, i}
 						<div 
@@ -36,7 +36,7 @@
 					{/each}
 					<div class="absolute inset-0 flex items-center justify-center">
 						<div class="bg-black text-white font-mono text-[10px] px-2 py-1 z-10">
-							parallel.web
+							infinity-forge.ai
 						</div>
 					</div>
 				</div>
@@ -49,52 +49,52 @@
 				<div class="space-y-12">
 					<!-- Update 1 -->
 					<div class="flex gap-8 group">
-						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">November 20</div>
+						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">January 2025</div>
 						<div>
-							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">Introducing Parallel Extract</h3>
+							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">Healthcare AI deployment achieves 95% accuracy</h3>
 							<p class="text-xs text-muted leading-relaxed mb-3">
-								Parallel Extract converts web pages into LLM-ready markdown format. It operates in two modes: compressed excerpts (dense, semantically relevant content) and full content extraction (complete page content). The API is designed for AI agents and handles challenging web content including JavaScript-rendered sites and complex PDFs, making it useful for tasks like documentation extraction, research paper processing, and financial filing analysis.
+								Our automated hemoglobin analysis system for a major healthcare network demonstrates 95% anemia detection accuracy in production. The deployment showcases our systematic methodology from research to real-world impact, processing thousands of samples daily with sub-second latency.
 							</p>
-							<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Product Release</span>
+							<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Case Study</span>
 						</div>
 					</div>
 
 					<!-- Update 2 -->
 					<div class="flex gap-8 group">
-						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">November 15</div>
+						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">December 2024</div>
 						<div>
-							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">Introducing Parallel FindAll</h3>
+							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">New research partnership with MIT and Stanford</h3>
 							<p class="text-xs text-muted leading-relaxed mb-3">
-								Parallel's new FindAll API turns natural language queries into custom datasets from the web. It finds entities like companies, people, or locations based on your criteria, then enriches them with structured data—all with citations. FindAll Pro achieves 61% recall, 3x better than competitors.
+								Infinity Forge announces expanded research collaborations with MIT and Stanford focusing on edge AI systems and federated learning. The partnerships will accelerate our work on sub-10ms latency inference and model quantization techniques for production deployments.
 							</p>
 							<div class="flex gap-2">
-								<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Product Release</span>
-								<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Benchmarks</span>
+								<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Partnership</span>
+								<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Research</span>
 							</div>
 						</div>
 					</div>
 
 					<!-- Update 3 -->
 					<div class="flex gap-8 group">
-						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">November 13</div>
+						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">November 2024</div>
 						<div>
-							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">Introducing Parallel Monitor</h3>
+							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">Venture studio launches third AI-first company</h3>
 							<p class="text-xs text-muted leading-relaxed mb-3">
-								Parallel Monitor can be thought of as a web search that's always on: you define a query that kicks off an ongoing stream of updates every time new related information appears on the web.
+								Our venture studio model continues to deliver results with the launch of our third AI-first company. Following our proven 18-month framework, the new venture focuses on compliance AI for financial services, combining our technical expertise with domain-specific knowledge.
 							</p>
-							<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Product Release</span>
+							<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Venture Launch</span>
 						</div>
 					</div>
 
 					<!-- Update 4 -->
 					<div class="flex gap-8 group">
-						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">November 12</div>
+						<div class="font-mono text-xs text-muted w-24 shrink-0 pt-1">October 2024</div>
 						<div>
-							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">Parallel raises $100M Series A to build web infrastructure for agents</h3>
+							<h3 class="font-medium text-sm mb-2 group-hover:text-accent transition-colors cursor-pointer">Ramphis Castro shares insights at AI Conference</h3>
 							<p class="text-xs text-muted leading-relaxed mb-3">
-								Parallel raises $100M Series A at a 740M valuation.
+								Founder & CEO Ramphis Castro presents "From Research to Production: Bridging the AI Commercialization Gap" at the annual AI Systems Conference, sharing lessons from deploying $100M+ in capital across AI ventures globally.
 							</p>
-							<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Fundraise</span>
+							<span class="bg-gray-100 text-[10px] px-1.5 py-0.5 rounded text-muted">Speaking</span>
 						</div>
 					</div>
 				</div>

@@ -2,27 +2,27 @@
 	<div class="container-custom">
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
 			<div class="space-y-2">
-				<h3 class="font-medium text-sm">Highest accuracy</h3>
+				<h3 class="font-medium text-sm">Rigor</h3>
 				<p class="text-xs text-muted leading-relaxed">
-					Production-ready outputs built on cross-referenced facts, with minimal hallucination.
+					Systematic approach to research and development, grounded in academic excellence and peer-reviewed methodologies.
 				</p>
 			</div>
 			<div class="space-y-2">
-				<h3 class="font-medium text-sm">Predictable costs</h3>
+				<h3 class="font-medium text-sm">Velocity</h3>
 				<p class="text-xs text-muted leading-relaxed">
-					Flex compute budget based on task complexity. Pay per query, not per token.
+					Rapid execution and deployment. From concept to production in 18 months with proven frameworks.
 				</p>
 			</div>
 			<div class="space-y-2">
-				<h3 class="font-medium text-sm">Evidence-based outputs</h3>
+				<h3 class="font-medium text-sm">Integrity</h3>
 				<p class="text-xs text-muted leading-relaxed">
-					Verifiability and provenance for every atomic output.
+					Ethical AI development and transparent practices. Building responsible systems for lasting impact.
 				</p>
 			</div>
 			<div class="space-y-2">
-				<h3 class="font-medium text-sm">Trusted</h3>
+				<h3 class="font-medium text-sm">Impact</h3>
 				<p class="text-xs text-muted leading-relaxed">
-					SOC-II Type 2 Certified, trusted by leading startups and enterprises.
+					Focus on measurable business outcomes. Deployed $100M+ in capital with proven results.
 				</p>
 			</div>
 		</div>
@@ -34,22 +34,25 @@
 		<div class="grid grid-cols-1 md:grid-cols-4 gap-8 items-center">
 			<div class="md:col-span-1">
 				<p class="font-mono text-xs text-muted w-3/4">
-					Powering the best AIs using the web
+					Partnered with leading research institutions
 				</p>
 			</div>
 			<div class="md:col-span-3 flex flex-wrap items-center justify-between gap-8 grayscale opacity-70 hover:opacity-100 transition-opacity">
-				<!-- Logo Placeholders -->
-				<div class="flex items-center gap-2 font-bold text-xl">
-					<div class="w-6 h-6 bg-red-500 rounded-sm"></div>
-					floqer
+				<!-- Academic Partners -->
+				<div class="flex items-center gap-2 font-bold text-base">
+					MIT
 				</div>
-				<div class="flex items-center gap-2 font-bold text-xl">
-					<div class="w-6 h-6 bg-blue-500 rounded-full"></div>
-					genpact
+				<div class="flex items-center gap-2 font-bold text-base">
+					Stanford
 				</div>
-				<div class="flex items-center gap-2 font-bold text-xl">
-					<div class="w-6 h-6 bg-pink-500 rounded-full border-2 border-black"></div>
-					Gumloop
+				<div class="flex items-center gap-2 font-bold text-base">
+					CMU
+				</div>
+				<div class="flex items-center gap-2 font-bold text-base">
+					UPRM
+				</div>
+				<div class="flex items-center gap-2 font-bold text-base">
+					NSF
 				</div>
 			</div>
 		</div>
